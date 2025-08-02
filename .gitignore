@@ -1,0 +1,5 @@
+# Ideiglenes vagy privát fájlok kizárása
+*.log
+*.tmp
+*.bak
+.env
