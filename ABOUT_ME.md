@@ -1,27 +1,25 @@
-# Magamról
+# Fejlesztői szándék – SQL Memoirs: Mentor Edition
 
-Azzal kezdeném, hogy leszögezem, nem vagyok tanár. Ennek a tanulási naplónak sem az a célja, hogy ilyen szerepekben tetszelegjek, hanem az, hogy összefoglaljam mindazt, amit eddig megtanultam, és amit a mestervizsgáig még meg fogok – remélhetőleg segítve ezzel önmagam és másokat is.
+Ez a repository nem oktatási célra készült, hanem fejlesztői dokumentációként szolgál PostgreSQL környezetben.  
+A tartalom a W3C SQL Developer Professional vizsga követelményeihez igazodik, és fejlesztői szintű lekérdezésekre, normalizálásra, adatminőségre és auditálhatóságra fókuszál.
 
-## Előzmények
+## 🎯 Cél
 
-Rövid előtörténete ennek a tanulási naplónak: Valamikor, február elején, miután végeztem a W3 Campuson a JAVA tanfolyammal, azt gondoltam, kéne nekem ezt a gyakorlatban is kódolni, tervezni tanulni.  
-Hogy lesz ebből SQL mentorálás? Nos, JAVA RX-ben felépítettem egy elég nagy modellt, és aztán azt gondoltam: oké, de több nyelvekből kellene már vizsgáznom, ideje volna nekilátnom.
+- Strukturált, szabványos SQL minták dokumentálása
+- Vizsgaelőkészítés fejlesztői mélységgel
+- Referenciális integritás és lekérdezési logika bemutatása
+- Más fejlesztők támogatása, akik nem alap szinten dolgoznak SQL-lel
 
-Jellemzően, mivel az egyik nagy kedvencem, SQL-re esett legelőször a választásom. Mentem tehát Campusra, néztem a vizsga feltételeket, ahol azt láttam, hogy a mestervizsga ugyanannyiba kerül, mint az alapfokú. Gondoltam tehát egy nagyot: miért is ne próbálnám meg akkor azt?  
-Így vette kezdetét egy meglehetősen hosszú és küzdelmes időszak az életemben, mert én ezt főállás mellett csinálom, ami olykor nagy kihívás.
+Ez nem tutorial, nem tréninganyag, nem oktatási termék.  
+A cél: fejlesztői gondolkodásmód, auditálható struktúrák, és technikai mélység.
 
-Hogy mindezt publikálom is, annak pedig az az oka, hogy a bonyolult működések értelmezése kapcsán olyan visszajelzéseket kaptam másoktól, hogy én ezt jól csinálom, és ha végeztem a mestervizsgával, milyen jó lenne, ha SQL-t mentorálnék! Mondtam: bár nem vagyok tanár, de ha ez tényleg másoknak is hasznos, oké, legyen így.
+## 🛡️ Felhasználási irányelvek
 
-## Miről szól ez a napló?
+- Nem használható kereskedelmi célra vagy oktatási újrahasznosításra
+- Forkolható, tanulmányozható, de nem publikálható sajátként
+- Forrásmegjelölés kötelező minden technikai hivatkozás esetén
 
-Én itt nem arra fogok vállalkozni, hogy leírjam nektek az alap dolgokat.  
-Felmentek a W3School-ra, és egy tanfolyam keretein belül azt ingyenesen, profin megosztják veletek.
+---
 
-A saját személyes tapasztalataimat, megértéseimet, tévedéseimet fogom leírni, okulásul másoknak.  
-Ha segít ez bárkinek, elérte a célját, hogy ezzel foglalkozom.
-
-## Zárszó
-
-Tanuljatok, tanítsatok, legyetek kritikusak – akár velem is – de mindig konstruktív irányban, ember módra, udvariasan.
-
-Kellemes időtöltést, jó tanulást, tanítást kívánok mindenkinek!
+Ez a dokumentáció nem a tanításról szól, hanem a struktúraépítésről.  
+Ha fejlesztő vagy, látni fogod benne a rendszert. Ha nem, akkor nem neked készült.
