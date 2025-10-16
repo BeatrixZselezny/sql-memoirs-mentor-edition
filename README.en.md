@@ -34,3 +34,5 @@ Forking and studying allowed with proper attribution.
 
 - [BeaSQL](https://github.com/BeatrixZselezny/BeaSQL) – Structured SQL toolkit for PostgreSQL
 - [Patchy Core](https://github.com/BeatrixZselezny/patchy-core) – DNS-agnostic init engine for secure Linux services
+
+<a href='https://ko-fi.com/Z8Z81M88IJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
