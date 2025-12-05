@@ -18,7 +18,7 @@ Az adatbázis tervezése nem csupán technikai feladat, hanem stratégiai dönt�
   - Sok-a-sokhoz (N:M), junction táblákkal
   - Egy-az-egyhez (1:1)
 - Mindig gondold végig, melyik kapcsolat mire szolgál, és milyen megszorításokat igényel.
-  /Egy megjegyzés, hogy a modern SQL tervezésben az 1:1 kapcsolatot NEM használjuk olyan formában, hogy "beszúrjuk más tábla elsődleges kulcsát.
+  /Egy megjegyzés, hogy a modern SQL tervezésben az 1:1 kapcsolatot NEM használjuk olyan formában, hogy "beszúrjuk" más tábla elsődleges kulcsát.
   Tudom, én is hallottam olyat, hogy "ha leza kapcsolat kell": NEM. Mindig megszorítással idegen kulcsot delkalarálunk./
 ## 3. Konzisztencia és megszorítások
 
